@@ -1,4 +1,8 @@
 
+.imgp{
+		width:350px;
+	}
+
 body {
   background: #050008;
   color: #c393cb;
@@ -46,6 +50,10 @@ h1, h2, h3, h4, h5, h6 {
   .back-to-top {
     bottom: 15px;
   }
+	.imgp{
+		width:100%;
+	}
+	
 }
 
 .back-to-top:focus {
